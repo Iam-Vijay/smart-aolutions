@@ -1,0 +1,4 @@
+include ':MyGenerator'
+include ':Generator'
+include ':app'
+rootProject.name = "MakeJar"
